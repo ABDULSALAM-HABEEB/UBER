@@ -1,7 +1,4 @@
 #!/bin/bash
 
-addition of cars 
+fixing of all bugs and errors
 
-addition of bikes
-
-addition of delivery services
